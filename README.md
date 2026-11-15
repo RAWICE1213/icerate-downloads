@@ -4,7 +4,7 @@
 
 icerate 是一款 Windows 图像创作工具，把场景布置、材质、灯光、摄像机和图像处理放在同一个工作流里。可以用路径追踪制作写实画面，也可以在分层渲染中尝试色块概括、描边和纸张质感，再通过二维工作区进行分镜绘制与画面加工。
 
-[下载 Windows 版](https://github.com/RAWICE1213/icerate-downloads/releases/tag/v0.9.24) · [快速开始](#快速开始) · [附加组件](#附加组件) · [反馈问题](https://github.com/RAWICE1213/icerate-downloads/issues)
+[下载 Windows 版](https://github.com/RAWICE1213/icerate-downloads/releases/tag/v0.9.24) · [完整使用指南（0.9.24）](https://github.com/RAWICE1213/icerate-downloads/blob/main/icerate-0.9.24-guide.zh-CN.md) · [快速开始](#快速开始) · [附加组件](#附加组件) · [反馈问题](https://github.com/RAWICE1213/icerate-downloads/issues)
 
 ## 可以做什么
 
@@ -57,6 +57,8 @@ icerate 是一款 Windows 图像创作工具，把场景布置、材质、灯光
 需要离线安装时，从 [附加组件下载页](https://github.com/RAWICE1213/icerate-downloads/releases/tag/components-1.0.0) 下载相应文件，在软件中选择「从离线包安装」。高斯计算环境包含五个分包，需要全部下载并保留原文件名。
 
 ## 使用说明
+
+[阅读 0.9.24 完整使用指南](https://github.com/RAWICE1213/icerate-downloads/blob/main/icerate-0.9.24-guide.zh-CN.md)：包含工程导入、视口与 Layout、材质节点、灯光、摄像机、三渲二、Paint、二维分镜、后期、输出和按模式分类的快捷键。Markdown 文件也可在本版 Release 的 Assets 中单独下载。
 
 - 渲染速度和可容纳的场景大小取决于显卡、显存、输出分辨率及材质复杂度。
 - DLSS 光线重建需要兼容的 NVIDIA RTX 显卡。当前高斯训练组件面向 RTX 30 / 40 系列，其他显卡架构暂未提供对应的训练包。
