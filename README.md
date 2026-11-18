@@ -1,10 +1,18 @@
 # icerate
 
-**交互式渲染、三渲二与二维分镜。**
+**实时路径追踪、三渲二与二维分镜 · Windows**
 
-icerate 是一款 Windows 图像创作工具，把场景布置、材质、灯光、摄像机和图像处理放在同一个工作流里。可以用路径追踪制作写实画面，也可以在分层渲染中尝试色块概括、描边和纸张质感，再通过二维工作区进行分镜绘制与画面加工。
+用路径追踪预览玻璃折射和金属反射，用分层渲染调整色块、描边和纸张质感，再把渲染画面送到二维工作区继续绘制和制作分镜。
 
-[下载 Windows 版](https://github.com/RAWICE1213/icerate-downloads/releases/tag/v0.9.24) · [完整使用指南（0.9.24）](https://github.com/RAWICE1213/icerate-downloads/blob/main/icerate-0.9.24-guide.zh-CN.md) · [快速开始](#快速开始) · [附加组件](#附加组件) · [反馈问题](https://github.com/RAWICE1213/icerate-downloads/issues)
+Real-time path tracing, stylized 3D rendering, and 2D storyboarding in one Windows app.
+
+**[下载 Windows 版](https://github.com/RAWICE1213/icerate-downloads/releases/tag/v0.9.24)** · **[观看完整演示（B站）](https://www.bilibili.com/video/BV1s4sW6uEnj/)** · [使用指南](icerate-0.9.24-guide.zh-CN.md) · [反馈问题](https://github.com/RAWICE1213/icerate-downloads/issues)
+
+[![icerate 实机演示，展示路径追踪材质与三渲二风格化](media/icerate-demo.gif)](https://www.bilibili.com/video/BV1s4sW6uEnj/)
+
+演示中的机器人模型来自 Quaternius / Tomás Laulhé（CC0）。
+
+想收藏下载入口或以后回来看看新版本，可以点页面右上角的 **Star**。
 
 ## 可以做什么
 
