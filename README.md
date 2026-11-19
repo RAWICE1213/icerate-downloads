@@ -6,7 +6,7 @@
 
 Real-time path tracing, stylized 3D rendering, and 2D storyboarding in one Windows app.
 
-**[下载 Windows 版](https://github.com/RAWICE1213/icerate-downloads/releases/tag/v0.9.24)** · **[观看完整演示（B站）](https://www.bilibili.com/video/BV1s4sW6uEnj/)** · [使用指南](icerate-0.9.24-guide.zh-CN.md) · [反馈问题](https://github.com/RAWICE1213/icerate-downloads/issues)
+**[下载 Windows 版](https://github.com/RAWICE1213/icerate-downloads/releases/tag/v0.9.26)** · **[观看完整演示（B站）](https://www.bilibili.com/video/BV1s4sW6uEnj/)** · [使用指南](icerate-0.9.24-guide.zh-CN.md) · [反馈问题](https://github.com/RAWICE1213/icerate-downloads/issues)
 
 [![icerate 实机演示，展示路径追踪材质与三渲二风格化](media/icerate-demo.gif)](https://www.bilibili.com/video/BV1s4sW6uEnj/)
 
@@ -26,9 +26,9 @@ Real-time path tracing, stylized 3D rendering, and 2D storyboarding in one Windo
 
 ## 下载与安装
 
-当前版本：**0.9.24 · Windows x64**。
+当前版本：**0.9.26 · Windows x64**。
 
-1. 下载 [icerate-0.9.24-Windows-x64.zip](https://github.com/RAWICE1213/icerate-downloads/releases/download/v0.9.24/icerate-0.9.24-Windows-x64.zip)（约 246 MB）。
+1. 下载 [icerate-0.9.26-Windows-x64.zip](https://github.com/RAWICE1213/icerate-downloads/releases/download/v0.9.26/icerate-0.9.26-Windows-x64.zip)（约 251 MB）。
 2. 将整个压缩包解压到一个文件夹。
 3. 在该文件夹中运行 `icerate.exe`。
 
@@ -66,7 +66,7 @@ Real-time path tracing, stylized 3D rendering, and 2D storyboarding in one Windo
 
 ## 使用说明
 
-[阅读 0.9.24 完整使用指南](https://github.com/RAWICE1213/icerate-downloads/blob/main/icerate-0.9.24-guide.zh-CN.md)：包含工程导入、视口与 Layout、材质节点、灯光、摄像机、三渲二、Paint、二维分镜、后期、输出和按模式分类的快捷键。Markdown 文件也可在本版 Release 的 Assets 中单独下载。
+[阅读 0.9.24 完整使用指南](https://github.com/RAWICE1213/icerate-downloads/blob/main/icerate-0.9.24-guide.zh-CN.md)：包含工程导入、视口与 Layout、材质节点、灯光、摄像机、三渲二、Paint、二维分镜、后期、输出和按模式分类的快捷键。Markdown 文件也可在 [0.9.24 Release](https://github.com/RAWICE1213/icerate-downloads/releases/tag/v0.9.24) 的 Assets 中单独下载。
 
 - 渲染速度和可容纳的场景大小取决于显卡、显存、输出分辨率及材质复杂度。
 - DLSS 光线重建需要兼容的 NVIDIA RTX 显卡。当前高斯训练组件面向 RTX 30 / 40 系列，其他显卡架构暂未提供对应的训练包。
